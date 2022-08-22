@@ -13,3 +13,5 @@ Here is information about the selected animal, which you can scroll through. The
 
 After determining the placement plane, an animal model appears in front of you. At the top of the screen you have 2 buttons, reloading the model and returning to the information. The animal can be scaled (bringing together and spreading fingers on the screen) and rotate.
 ![image](https://user-images.githubusercontent.com/59018353/185895219-d1096ce9-cc4b-4734-9a18-26c1703116d6.png)
+
+For all questions write to the mail: lipay.dima@gmail.com
